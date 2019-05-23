@@ -51,7 +51,7 @@ digitalWrite(porta,HIGH); //Essa função "digitalWrite" manda um sinal digital 
 ```
 Como no circuito utilizamos a porta número 4, ela está como a selecionada, caso não esteja usando a porta número 4, altere o valor da variável "porta" para o número referente a porta que está sendo usada no circuito.
 
-Assim que o código estiver pronto, clique em "Start simulation" para podermos tester o nosso circuito + código.
+Assim que o código estiver pronto, clique em "Start simulation" para podermos testar o nosso circuito + código.
 
 <img src = "../Imgs/atv1_5.png"/>
 
