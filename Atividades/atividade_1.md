@@ -53,7 +53,7 @@ Como no circuito utilizamos a porta número 4, ela está como a selecionada, cas
 
 Assim que o código estiver pronto, clique em "Start simulation" para podermos tester o nosso circuito + código.
 
-<img src = "../Imgs/atv1_5.png"/>
+<img src = "../Imgs/atv1_.png"/>
 
 Durante a simulação, podemos ver que a led acendeu, então o código e o circuito funcionaram.
 
