@@ -20,9 +20,9 @@ Então conecta-se o resistor ao receptor da led e o outro lado da led à qualque
 
 <img src = "../Imgs/atv1_3.png" height="400" widht ="400"/>
 
-Para terminar as conexões do circuito, devemos selecionar uma das portas digitais do arduino, que estão logo acima do "Arduino Uno", e vão de 0 até 13, então temos 14 portas digitais. 
+Para terminar as conexões do circuito, devemos selecionar uma das portas digitais do arduino, que estão logo acima do "Arduino Uno", que vão de 0 até 13, e portanto temos 14 portas digitais. 
 
-Escolha qualquer uma das portas, a porta utilizada nesse circuito é a porta num 4.
+Escolha qualquer uma das portas para o seu circuito, neste iremos utilizar a porta 4.
 
 <img src = "../Imgs/atv1_4.png"/>
 
@@ -57,7 +57,7 @@ Assim que o código estiver pronto, clique em "Start simulation" para podermos t
 
 Durante a simulação, podemos ver que a led acendeu, então o código e o circuito funcionaram.
 
-Se vocẽ conseguiu acender a sua led sem nenhum problema, então pode seguir para as atividades :
+Se você conseguiu acender a sua led sem nenhum problema, então pode seguir para as atividades :
 
 ### Atividades
 * Fazer a led piscar.
