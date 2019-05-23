@@ -38,3 +38,15 @@ void loop(){
 }
 ```
 Então, temos a estrutura básica de um código em Arduino feita. E agora, como iremos ligar a led?
+```C
+int porta = 4;
+void setup(){
+pinMode(porta,OUTPUT); // Essa função "pinMode" atribui à porta digital selecionada a função de saída.
+
+}
+void loop(){
+digitalWrite(porta,HIGH); //Essa função digitalWrite manda um sinal digital de 1 ou 0, para a porta selecionada.
+
+}
+```
+Como no circuito utilizamos a porta número 4, ela está como a selecionada, caso não esteja usando a porta número 4, altere o valor da variável "porta" para o número referente a porta que está sendo usada no circuito.
