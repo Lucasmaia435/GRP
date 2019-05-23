@@ -5,7 +5,7 @@ Então iremos criar um novo circuito no TinkerCad, e iremos começar a montá-lo
 
 <img src = "../Imgs/atv1_1.png"/>
 
-Abrimos o nosso TinkerCad, e na parte direita há uma lista de componenetes eletrônicos.
+Ao abrirmos o TinkerCad percebemos que na parte direita há uma lista de componenetes eletrônicos.
 
 Dessa lista, iremos usar:
 * 1 - Led (qualquer cor)
@@ -18,4 +18,20 @@ Após a adição dos componentes vamos conecta-lós. Na led há uma das "pernas"
 
 Então conecta-se o resistor ao receptor da led e o outro lado da led à qualquer entrada no arduino que esteja indicada como "GND":
 
-<img src = "../Imgs/atv1_3.png"/>
+<img src = "../Imgs/atv1_3.png" height="400" widht ="400"/>
+
+Para terminar as conexões do circuito, devemos selecionar uma das portas digitais do arduino, que estão logo acima do "Arduino Uno", e vão de 0 até 13, então temos 14 portas digitais. 
+
+Escolha qualquer uma das portas, a porta utilizada nesse circuito é a porta num 4.
+
+<img src = "../Imgs/atv1_4.png"/>
+
+Com o nosso circuito montado, iremos agora adicionar um código para ele, próximo a lista de componentes, na parte superior temos a aba "Code", iremos abri-la e depois selecionar o tipo "Text" e apagar todo o código que está ali para podermos reescrevê-lo.
+```C
+void setup(){
+
+}
+void loop(){
+
+}
+```
