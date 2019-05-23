@@ -29,6 +29,7 @@ Escolha qualquer uma das portas, a porta utilizada nesse circuito é a porta num
 Com o nosso circuito montado, iremos agora adicionar um código para ele, próximo a lista de componentes, na parte superior temos a aba "Code", iremos abri-la e depois selecionar o tipo "Text" e apagar todo o código que está ali para podermos reescrevê-lo.
 ```C
 void setup(){
+/*Tudo que estiver nessa função chamada "setup" irá rodar apenas uma vez*/ 
 
 }
 void loop(){
