@@ -33,6 +33,8 @@ void setup(){
 
 }
 void loop(){
+/*Tudo que estiver nessa função chamada "loop" irá rodar sempre, enquanto o circuito estiver ligado*/
 
 }
 ```
+Então, temos a estrutura básica de um código em Arduino feita. E agora, como iremos ligar a led?
