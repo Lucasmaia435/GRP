@@ -18,7 +18,7 @@ Após a adição dos componentes vamos conecta-lós. Na led há uma das "pernas"
 
 Então conecta-se o resistor ao receptor da led e o outro lado da led à qualquer entrada no arduino que esteja indicada como "GND":
 
-<img src = "../Imgs/atv1_3.png" height="400" widht ="400"/>
+<img src = "../Imgs/atv1_3.png"/>
 
 Para terminar as conexões do circuito, devemos selecionar uma das portas digitais do arduino, que estão logo acima do "Arduino Uno", que vão de 0 até 13, e portanto temos 14 portas digitais. 
 
