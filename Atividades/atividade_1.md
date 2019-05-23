@@ -45,8 +45,24 @@ pinMode(porta,OUTPUT); // Essa função "pinMode" atribui à porta digital selec
 
 }
 void loop(){
-digitalWrite(porta,HIGH); //Essa função digitalWrite manda um sinal digital de 1 ou 0, para a porta selecionada.
+digitalWrite(porta,HIGH); //Essa função "digitalWrite" manda um sinal digital de 1 ou 0, para a porta selecionada.
 
 }
 ```
 Como no circuito utilizamos a porta número 4, ela está como a selecionada, caso não esteja usando a porta número 4, altere o valor da variável "porta" para o número referente a porta que está sendo usada no circuito.
+
+Assim que o código estiver pronto, clique em "Start simulation" para podermos tester o nosso circuito + código.
+
+<img src = "../Imgs/atv1_5.png"/>
+
+Durante a simulação, podemos ver que a led acendeu, então o código e o circuito funcionaram.
+
+Se vocẽ conseguiu acender a sua led sem nenhum problema, então pode seguir para as atividades :
+
+### Atividades
+* Fazer a led piscar.
+* Fazer um pisca-pisca com 5 leds. 
+* Fazer um semáforo de dois tempos.
+
+### Dúvidas e sugestões
+Entrar em contato com [Lucas Maia](https://github.com/Lucasmaia435)
