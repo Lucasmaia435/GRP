@@ -27,3 +27,9 @@ E com isso, ligamos os GND's da led's a quaiquer GND no Arduino.
 Pronto, o circuito está pronto para ser testado. Agora iniciamos a simulação e apertamos o botão :
 
 <img src = "../Imgs/atv2_4.gif">
+
+Se o seu circuito funcionou perfeitamente, então pode seguir para as atividades :
+
+## Atividades
+* Fazer uma led piscar, enquanto o botão estiver ligado.
+* Fazer o arduino mandar uma mensagem, no serial, quando um botão for pressionado.
