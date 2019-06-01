@@ -12,9 +12,9 @@ Para essa atividade iremos usar os seguintes componentes da lista de componentes
 
 Agora que todos os componentes estão na área de trabalho, vamos montar o circuito.
 
-<img src = "../Imgs/atv2_2.png">
+Neste circuito usaremos a saída de 5V do arduino, para vermos apenas o funcionamento do botão, mas se você colocar em um dos pinos digitais também irá funcionar, já que quando o valor do pino está em HIGH ele emite 5V.
 
-Neste circuito usaremos a saída de 5V do arduino, para vermos apenas o funcionamento do botão, mas se você colocar em um dos pinos digitais também iria funcionar, já que quando o valor do pino está em HIGH ele emite 5V.
+<img src = "../Imgs/atv2_2.png">
 
 O botão tem 4 terminais, 2 terminais 'A' e 2 terminais 'B', no circuito ligamos o 5V do Arduino ao terminal '2B' e a as leds ao terminal '1B'
 
