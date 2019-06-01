@@ -5,7 +5,7 @@ Então iremos criar um novo circuito no TinkerCad, e iremos começar a montá-lo
 
 <img src = "../Imgs/atv1_1.png"/>
 
-Ao abrirmos o TinkerCad percebemos que na parte direita há uma lista de componenetes eletrônicos.
+Ao abrirmos o TinkerCad percebemos que na parte direita há uma lista de componentes eletrônicos.
 
 Dessa lista, iremos usar:
 * 1 - Led (qualquer cor)
