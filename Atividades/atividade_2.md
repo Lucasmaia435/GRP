@@ -18,8 +18,12 @@ Neste circuito usaremos a saída de 5V do arduino, para vermos apenas o funciona
 
 O botão tem 4 terminais, 2 terminais 'A' e 2 terminais 'B', no circuito ligamos o 5V do Arduino ao terminal '2B' e a as leds ao terminal '1B'
 
-Tanto os terminais '1A' e '1B' quanto '2A' e '2B' do botão são intermanetes ligados, ou seja se conectarmos os 5V ao terminal '1A' e depois as led's ao terminal '1B' ele irá ligar sem que haja o pressionar do botão.
+Tanto os terminais '1A' e '1B' quanto '2A' e '2B' do botão são internamente ligados, ou seja se conectarmos os 5V ao terminal '1A' e depois as led's ao terminal '1B' ele irá ligar sem que haja o pressionar do botão.
 
 E com isso, ligamos os GND's da led's a quaiquer GND no Arduino.
 
 <img src = "../Imgs/atv2_3.png">
+
+Pronto, o circuito está pronto para ser testado. Agora iniciamos a simulação e apertamos o botão :
+
+<img src = "../Imgs/atv2_4.gif">
